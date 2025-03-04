@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramCalendarBot", "TelegramCalendarBot\TelegramCalendarBot.csproj", "{A3A600C0-53B7-4B19-A392-9BC0AB8BA295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A600C0-53B7-4B19-A392-9BC0AB8BA295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A600C0-53B7-4B19-A392-9BC0AB8BA295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A600C0-53B7-4B19-A392-9BC0AB8BA295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A600C0-53B7-4B19-A392-9BC0AB8BA295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE33C3A-D9E3-406F-8B41-529DCEB197FE}
+	EndGlobalSection
+EndGlobal
